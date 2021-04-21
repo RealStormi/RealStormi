@@ -23,6 +23,14 @@ My Current Projects:
 
 
 
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealStormi&repo=guard)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 Which Languages are im Using?:
 
 
