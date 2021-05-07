@@ -17,7 +17,7 @@ My Current Projects:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealStormi&repo=RealStormi.github.io)](https://github.com/RealStormi/RealStormi.github.io)
+
 
 
 
